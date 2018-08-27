@@ -18,6 +18,6 @@ Quick start
 
 3. Run 'python manage.py makemigrations polls' and  'python manage.py migrate' to create the polls models and database.
 
-4.Start the development server via "python manage.py runserver" and visit http://127.0.0.1:8000/ to create a poll.
+4. Start the development server via "python manage.py runserver" and visit http://127.0.0.1:8000/ to create a poll.
 
-5.Visit http://127.0.0.1:8000/detail to join in this poll.
+5. Visit http://127.0.0.1:8000/detail to join in this poll.
