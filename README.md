@@ -6,7 +6,7 @@ Polls is a simple Django app to conduct Web-based polls. For each question, visi
 
 Quick start
 --------------
-
+```python
 1. Add "polls" to your INSTALLED_APPS settings like this:
     INSTALLED_APPS = [
             ...
@@ -20,4 +20,4 @@ Quick start
 
 4. Start the development server via `python manage.py runserve` and visit http://127.0.0.1:8000/ to create a poll.
 
-5. Visit http://127.0.0.1:8000/detail to join in this polls.
+5. Visit http://127.0.0.1:8000/detail to join in this polls.```
